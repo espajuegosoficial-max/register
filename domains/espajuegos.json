@@ -1,1 +1,10 @@
-
+{
+  "owner": {
+    "username": "espajuegosoficial-max",
+    "email": "espajuegosoficial@gmail.com"
+  },
+  "records": {
+    "CNAME": "ghs.googlehosted.com",
+    "TXT": "google-site-verification=7q6M_xdes7EK_YmhWOAPBp4uADO4C27Ot"
+  }
+}
